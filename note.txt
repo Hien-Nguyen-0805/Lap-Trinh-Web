@@ -1,0 +1,4 @@
+các bước sử dụng sourcetree :
++ comit code 
++ pull code từ git/bitbucket về 
++ push code lên git/bitbucket 
