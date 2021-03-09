@@ -1,6 +1,24 @@
+/* reset css */
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
 .main-contain {
-  width: 860px;
+  width: 900px;
   /* background-color: coral; */
+  margin-right: 10px;
+  margin-bottom: 50px;
+  margin-left:10px ;
+  margin-top: 10px;
+  
+}
+/* khoi-tin-chinh */
+article.tin{
+  padding: 10px;
+  background-color: white;
+  width: 800px;
+  display: block;
 }
 .hinh{ 
   width: 50%; 
@@ -31,4 +49,15 @@
 a.link-new:hover {
   color:red;
   font-size: 40px;
+}
+/* khoi tin nho */
+div.khoi-tin{
+  width: 280px;
+  float:left;
+  margin-right: 15px ;
+}
+div.khoi-tin p{
+  color:red;
+  font-size: 10px;
+  font-style: italic;
 }
