@@ -16,7 +16,7 @@
 /* khoi-tin-chinh */
 article.tin{
   padding: 10px;
-  background-color: white;
+  background-color: blue;
   width: 800px;
   display: block;
 }
@@ -60,4 +60,8 @@ div.khoi-tin p{
   color:red;
   font-size: 10px;
   font-style: italic;
+}
+div.tieu-de{
+  color: red;
+  border-bottom: 1px solix red;
 }
