@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: #E7E7E7;
+}
+  .main-container{
+    width: 500px;
+    height: 260px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #FFFFFF;
+  }
+  .foloww title{
+    font-family:'roboto' , sans-serif;
+    background-color: #FFFFFF;
+    border-bottom: 2px solid black;
+  }
+
