@@ -13,10 +13,12 @@
   margin: auto;
   margin-top: 50px;
 }
+/* *css cho main-news */
 .main-news{
   height: 340px ;
   background-color:#ffffff;
   overflow: hidden;
+  width: 930px;
 }
 .main-news h2{
   text-transform: uppercase;
@@ -46,4 +48,36 @@
   font-family: 'Roboto', sans-serif;
   color: black;
   font-size: 13px;
+}
+.lien-quan i{
+  width: 280;
+  margin: right;
+}
+/* *css cho sub-news */
+.sub-new div.tin{
+  width: 280px;
+  margin-right: 45px;
+  float: left;
+}
+.sub-new div.tin:nth-child(3){
+  width: 280px;
+  margin-right: 0px;
+  float: left;
+
+.sub-new div.tin img{
+  width: 280px;
+  height: 175px;
+  margin-bottom: 10px;
+}
+
+.sub-new div.tin p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+}
+.sub-new{
+  margin-top: 20px;
+  overflow: hidden;
+  width: 930px;
 }
