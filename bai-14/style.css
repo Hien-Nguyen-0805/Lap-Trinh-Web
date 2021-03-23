@@ -16,12 +16,54 @@
   height: 300px;
   margin: 30pxs;
   background-color: blue;
+  margin-left: 30px;
 }
 .khoi-den{
   width: 300px;
   height: 100px;
   background-color: black;
   /* dinh vi tri theo moc */
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
+.khoi-bt{
+  width: 285px;
+  height: 250px;
+  padding-right: 15px;
+  background-color: yellowgreen;
+}
+.noi-dung {
+  width: 270px;
+  height: 190px;
+  position: relative;
+}
+.noi-dung  img{
+  width: 270px;
+  height: 190px;
+}
+.khoi-bt h2{
+  width: 260px;
+  text-transform: uppercase;
+  border-left: 10px red solid;
+  padding-left: 30px;
+  color: white;
+  font-family: tahoma;
+  background-color: black;
+  margin-top: 20px;
+
+}
+.noi-dung a{
+  width: 260px;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding-left: 30px;
+  color: white;
+  font-family: tahoma;
+  background-color: black;
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
   position: absolute;
   bottom: 0px;
   left: 0px;
